@@ -7,8 +7,9 @@ function NavBar() {
     <>
         <header>
             <nav>
-                <NavLink to='/'>Home</NavLink>
-                <NavLink to='/matches'>Matches</NavLink>            
+                <NavLink to='/'>Home   </NavLink>
+                <NavLink to='/matches'>Matches   </NavLink>            
+                <NavLink to='/matchmaking'>Matchmaking   </NavLink>            
                 <NavLink to='/heroes'>Heroes</NavLink>            
             </nav>
         </header>
